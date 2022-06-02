@@ -39,7 +39,7 @@ const App = () => {
             borderRadius="lg"
           >
             <Flex>
-              <Text fontSize="lg">
+              <Text fontSize="2xl">
                 Mission <strong>{launch.mission_name}</strong> (
                 {launch.launch_year})
               </Text>
